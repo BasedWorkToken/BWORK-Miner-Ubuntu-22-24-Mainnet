@@ -14,7 +14,7 @@ then
     sudo apt-get update; \
     sudo apt-get install -y apt-transport-https && \
     sudo apt-get update && \
-    sudo apt-get install -y dotnet-sdk-6.0
+    sudo apt install -y dotnet6
 
     # Verify the installation
     dotnet --version
@@ -41,7 +41,7 @@ else
 	sudo apt-get update; \
 	sudo apt-get install -y apt-transport-https && \
 	sudo apt-get update && \
-	sudo apt-get install -y dotnet-sdk-6.0
+  	sudo apt install -y dotnet6
 
 	# Verify the installation
 	dotnet --version
