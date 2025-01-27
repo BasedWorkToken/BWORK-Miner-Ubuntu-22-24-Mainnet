@@ -1,0 +1,95 @@
+
+*** BasedWorkToken 8.2.4 forked from IwYeo's SoliditySHA3Miner - Untouchable2k and crnxhh (2025) ***
+*** Built with .NET 5.0 SDK, VC++ 19.28.29914, gcc 4.8.5, nVidia CUDA SDK 10.2 64-bit, and AMD APP SDK v3.0.130.135 (OpenCL)
+
+Donation addresses:
+ETH (or any ERC 20/918 tokens)	: 0x9172ff7884CEFED19327aDaCe9C470eF1796105c
+BTC                             : 3GS5J5hcG6Qcu9xHWGmJaV5ftWLmZuR255
+LTC                             : LbFkAto1qYt8RdTFHL871H4djendcHyCyB
+
+[2025-01-27T13:01:19] [INFO] Solo mining mode.
+[2025-01-27T13:01:19] [INFO] King making disabled.
+[2025-01-27T13:01:19] CUDA [INFO] Device not specified, default assign all CUDA devices.
+[2025-01-27T13:01:19] OpenCL [INFO] AMD APP device not specified, default assign all AMD APP devices.
+[2025-01-27T13:01:19] [Multiplier] IS: 1
+[2025-01-27T13:01:19] [INFO] Contract address : 0x2f38B1a516239739CdCD2C228D1Eb96E29800975
+[2025-01-27T13:01:19] [INFO] mintToAddress address : 
+[2025-01-27T13:01:19] [INFO] ABI specified, using "BWORK.abi"
+[2025-01-27T13:01:19] [INFO] Gas to mine: 1.32 GWei
+[2025-01-27T13:01:19] [INFO] Gas limit: 1500000
+[2025-01-27T13:01:19] [INFO] Minimum BWORK per Mint: 25
+[2025-01-27T13:01:19] BLOCKS PER READJSTMENT 2016
+[2025-01-27T13:01:19] [INFO] Checking maximum target from network...
+[2025-01-27T13:01:20] CUDA [WARN] NvAPI64 library not found.
+[2025-01-27T13:01:20] CUDA ID: 0 [INFO] Assigning device...
+[2025-01-27T13:01:20] CUDA ID: 0 [INFO] Assigned device (NVIDIA GeForce GTX 1080 Ti)...
+[2025-01-27T13:01:20] CUDA ID: 0 [INFO] Compute capability: 6.1
+[2025-01-27T13:01:20] CUDA ID: 0 [INFO] Intensity: 25.5
+[2025-01-27T13:01:20] CUDA ID: 0 [INFO] Initializing device...
+[2025-01-27T13:01:20] [INFO] JSON-API service started at http://127.0.0.1:4078/...
+[2025-01-27T13:01:20] [INFO] Checking latest parameters from network...
+[2025-01-27T13:01:20] [INFO] ccminer-API service started at 127.0.0.1:4068...
+
+*** BasedWorkToken 8.2.4 forked from IwYeo's SoliditySHA3Miner - Untouchable2k and crnxhh (2025) ***
+*** Built with .NET 5.0 SDK, VC++ 19.28.29914, gcc 4.8.5, nVidia CUDA SDK 10.2 64-bit, and AMD APP SDK v3.0.130.135 (OpenCL)
+
+Donation addresses:
+ETH (or any ERC 20/918 tokens)	: 0x9172ff7884CEFED19327aDaCe9C470eF1796105c
+BTC                             : 3GS5J5hcG6Qcu9xHWGmJaV5ftWLmZuR255
+LTC                             : LbFkAto1qYt8RdTFHL871H4djendcHyCyB
+
+[2025-01-27T13:07:08] [INFO] King making disabled.
+[2025-01-27T13:07:08] [INFO] Solo mining mode.
+[2025-01-27T13:07:08] CUDA [INFO] Device not specified, default assign all CUDA devices.
+[2025-01-27T13:07:08] OpenCL [INFO] AMD APP device not specified, default assign all AMD APP devices.
+[2025-01-27T13:07:08] [Multiplier] IS: 1
+[2025-01-27T13:07:08] [INFO] Contract address : 0x2f38B1a516239739CdCD2C228D1Eb96E29800975
+[2025-01-27T13:07:08] [INFO] mintToAddress address : 
+[2025-01-27T13:07:08] [INFO] ABI specified, using "BWORK.abi"
+[2025-01-27T13:07:08] [INFO] Gas to mine: 1.32 GWei
+[2025-01-27T13:07:08] [INFO] Gas limit: 1500000
+[2025-01-27T13:07:08] [INFO] Minimum BWORK per Mint: 25
+[2025-01-27T13:07:08] BLOCKS PER READJSTMENT 2016
+[2025-01-27T13:07:08] [INFO] Checking maximum target from network...
+[2025-01-27T13:07:09] CUDA [WARN] NvAPI64 library not found.
+[2025-01-27T13:07:09] CUDA ID: 0 [INFO] Assigning device...
+[2025-01-27T13:07:09] CUDA ID: 0 [INFO] Assigned device (NVIDIA GeForce GTX 1080 Ti)...
+[2025-01-27T13:07:09] CUDA ID: 0 [INFO] Compute capability: 6.1
+[2025-01-27T13:07:09] CUDA ID: 0 [INFO] Initializing device...
+[2025-01-27T13:07:09] CUDA ID: 0 [INFO] Intensity: 25.5
+[2025-01-27T13:07:09] [INFO] JSON-API service started at http://127.0.0.1:4078/...
+[2025-01-27T13:07:09] [INFO] Checking latest parameters from network...
+[2025-01-27T13:07:09] [INFO] ccminer-API service started at 127.0.0.1:4068...
+[2025-01-27T13:07:09] [INFO] New challenge detected 0x939914c719ce43ba12c56241f76af23636f542d12385791a906204e232c016ee...
+[2025-01-27T13:07:09] [INFO] New target detected 0x0000040000000000000000000000000000000000000000000000000000000000...
+[2025-01-27T13:07:09] [INFO] New difficulty detected Normalized Difficulty = (1.00)...
+[2025-01-27T13:07:09] [INFO] New difficulty detected (524288)...
+[2025-01-27T13:07:09] CUDA ID: 0 [INFO] Start mining...
+[2025-01-27T13:07:09] CUDA ID: 0 [DEBUG] Threads: 47453132 Grid size: 46341 Block size: 1024
+[2025-01-27T13:07:09] CUDA ID: 0 [INFO] Found solution, verifying...
+[2025-01-27T13:07:09] CUDA ID: 0 [INFO] Solution Verified Info: MinerAddress: 0x851c0428ee0be11f80d93205f6cB96adBBED22e6
+Nonce: 0x4f31acdbfcfe99f9acfdba328e36050000000000d80e7b564263b07bf4b3dd89
+[2025-01-27T13:07:09] [INFO] Please enter your personal Address and Private Key in the BasedWorkToken.conf Config File, using exposed privateKey
+[2025-01-27T13:07:09] [INFO] Please enter your personal Address and Private Key in BasedWorkToken.conf Config File, using exposed privateKey
+[2025-01-27T13:07:09] [INFO] Checking latest parameters from network...
+[2025-01-27T13:07:09] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[2025-01-27T13:07:09] [INFO] Please enter your personal Address and Private Key in BasedWorkToken.conf Config File, using exposed privateKey
+[2025-01-27T13:07:10] Mining seconds until probably time to turn in answers: 1758712
+[2025-01-27T13:07:10] Should we turn in Answers because we are close to Emergency Difficulty Adjustment: False
+[2025-01-27T13:07:10] EPOCH UNTIL READJUSTMENT: 1102
+[2025-01-27T13:07:10] YOU WILL MINT THIS MANY IF YOU MINT NOW: 1x
+[2025-01-27T13:07:10] YOU WILL MINT THIS MANY IF YOU MINT NOW: 1x
+[2025-01-27T13:07:10] YOU WILL MINT THIS MANY IF YOU MINT NOW: 1x
+[2025-01-27T13:07:10] STILL SOLVING, Solves til transaction sending: 4
+[2025-01-27T13:07:10] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[2025-01-27T13:07:10] CUDA ID: 0 [INFO] Found solution, verifying...
+[2025-01-27T13:07:10] STILL SOLVING, Total Good Solves count: 1
+[2025-01-27T13:07:10] CUDA ID: 0 [INFO] Solution Verified Info: MinerAddress: 0x851c0428ee0be11f80d93205f6cB96adBBED22e6
+Nonce: 0x4f31acdbfcfe99f9acfdba32968be50000000000d80e7b564263b07bf4b3dd89
+[2025-01-27T13:07:10] [INFO] Please enter your personal Address and Private Key in the BasedWorkToken.conf Config File, using exposed privateKey
+[2025-01-27T13:07:10] Waiting for next solution
+[2025-01-27T13:07:10] [INFO] Please enter your personal Address and Private Key in BasedWorkToken.conf Config File, using exposed privateKey
+[2025-01-27T13:07:10] [INFO] Checking latest parameters from network...
+[2025-01-27T13:07:10] [INFO] Please enter your personal Address and Private Key in BasedWorkToken.conf Config File, using exposed privateKey
+[2025-01-27T13:07:11] Mining seconds until probably time to turn in answers: 1758712
+[2025-01-27T13:07:11] Should we turn in Answers because we are close to Emergency Difficulty Adjustment: False
