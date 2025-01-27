@@ -9,6 +9,8 @@ then
     echo "Installing dotnet 6.0..."
 
     # Add Microsoft package signing key and repository
+    sudo rm /etc/apt/sources.list.d/microsoft-prod.list
+    sudo apt update
     sudo apt install -y apt-transport-https
     sudo apt install -y dotnet6
 
@@ -31,6 +33,8 @@ else
 	echo "dotnet 6.0 is not found or not installed."
 	echo "Installing dotnet 6.0..."
 
+	sudo rm /etc/apt/sources.list.d/microsoft-prod.list
+	sudo apt update
 	# Add Microsoft package signing key and repository
 	sudo apt install -y apt-transport-https
 	sudo apt install -y dotnet6
