@@ -9,10 +9,12 @@ then
     echo "Installing dotnet 6.0..."
 
     # Add Microsoft package signing key and repository
-    sudo rm /etc/apt/sources.list.d/microsoft-prod.list
-    sudo apt update
-    sudo apt install -y apt-transport-https
-    sudo apt install -y dotnet6
+    wget https://packages.microsoft.com/config/ubuntu/$(lsb_release -rs)/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
+    sudo dpkg -i packages-microsoft-prod.deb
+    sudo apt-get update; \
+    sudo apt-get install -y apt-transport-https && \
+    sudo apt-get update && \
+    sudo apt-get install -y dotnet-sdk-6.0
 
     # Verify the installation
     dotnet --version
@@ -33,12 +35,13 @@ else
 	echo "dotnet 6.0 is not found or not installed."
 	echo "Installing dotnet 6.0..."
 
-	sudo rm /etc/apt/sources.list.d/microsoft-prod.list
-	sudo apt update
 	# Add Microsoft package signing key and repository
-	sudo apt install -y apt-transport-https
-	sudo apt install -y dotnet6
-
+	wget https://packages.microsoft.com/config/ubuntu/$(lsb_release -rs)/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
+	sudo dpkg -i packages-microsoft-prod.deb
+	sudo apt-get update; \
+	sudo apt-get install -y apt-transport-https && \
+	sudo apt-get update && \
+	sudo apt-get install -y dotnet-sdk-6.0
 
 	# Verify the installation
 	dotnet --version
